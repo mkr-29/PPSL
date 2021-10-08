@@ -1,0 +1,28 @@
+READ INTEGER NUMBER int number;
+-------------------------------
+Input Format:
+15
+-------------------------------
+Constraints:
+10<= number <= 99
+-------------------------------
+Output Format:
+unit 5 tenth 1
+-------------------------------
+Sample Input 0:
+15
+-------------------------------
+Sample Output 0:
+unit
+5
+tenth
+1
+-------------------------------
+Sample Input 1:
+45
+-------------------------------
+Sample Output 1:
+unit
+5
+tenth
+4
