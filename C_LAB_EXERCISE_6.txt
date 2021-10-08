@@ -1,0 +1,38 @@
+INPUT TWO SIDES OF A RIGHT ANGLED TRIANGLE:
+int side1
+int side2
+
+float square_hyopotenuse
+
+float hypo
+
+where square_hypotenuse = (side1 * side1) + (side2 * side2 )
+
+hypo = sqrt( square_hypotenuse)
+
+print("%f",hypo)
+------------------------------------------------------------
+Input Format:
+int side1 4
+int side2 3
+------------------------------------------------------------
+Constraints:
+side1 should be greater than 0
+side2 should be greater than 0
+------------------------------------------------------------
+Output Format:
+float hypo 5
+------------------------------------------------------------
+Sample Input 0:
+4
+3
+------------------------------------------------------------
+Sample Output 0:
+5.000000
+------------------------------------------------------------
+Sample Input 1:
+8
+6
+------------------------------------------------------------
+Sample Output 1:
+10.000000
