@@ -1,0 +1,26 @@
+READ TWO INTEGERS int dividend; int divisor; float quotient;
+------------------------------------------------------------
+Input Format:
+int dividend; int divisor;
+------------------------------------------------------------
+Constraints:
+divisor is not equal to zero
+------------------------------------------------------------
+Output Format:
+float quotient; output in two places of decimal
+------------------------------------------------------------
+Sample Input 0:
+10
+5
+------------------------------------------------------------
+Sample Output 0:
+quotient
+2.00
+------------------------------------------------------------
+Sample Input 1:
+12
+5
+------------------------------------------------------------
+Sample Output 1:
+quotient
+2.40
