@@ -7,7 +7,14 @@ int main()
 
     scanf("%d",&a);   //take in input for the variable
 
-    (a%2==0)?printf("%d is even.",a):printf("%d is odd.",a);    //check if a is even or odd and print accordingly
+    if(a%2==0)
+    {
+        printf("%d is even.",a);
+    }
+    else
+    {
+        printf("%d is odd.",a);
+    }
   
     return 0;
 }
