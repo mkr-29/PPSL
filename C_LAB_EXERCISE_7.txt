@@ -1,0 +1,30 @@
+Task:
+-------------------------------------------------------
+Your task is to take two numbers of int data type,
+and output their sum
+and Difference
+-------------------------------------------------------
+Declare variables:
+two of type int
+-------------------------------------------------------
+Read lines of input from stdin
+Print the sum of two int variable on a new line.
+Print the difference of two int variable on a new line.
+-------------------------------------------------------
+Input Format:
+int num1; int num2;
+-------------------------------------------------------
+Constraints:
+1 <= num1 <= 104
+1 <= num2 <= 104
+-------------------------------------------------------
+Output Format:
+print sum on first line print difference on second line
+-------------------------------------------------------
+Sample Input 0:
+10
+5
+-------------------------------------------------------
+Sample Output 0:
+15
+5
