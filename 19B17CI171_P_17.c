@@ -7,11 +7,11 @@ int main()
 
     scanf("%d",&a);   //take in input for the variable
 
-    if(a%2==0)
+    if(a%2==0)      //check if the remainder comes out to be zero if divided by 2
     {
-        printf("%d is even.",a);
+        printf("%d is even.",a);        //print the desired output for even
     }
-    else
+    else        //else print desired output for odd
     {
         printf("%d is odd.",a);
     }
