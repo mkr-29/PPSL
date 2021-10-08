@@ -1,0 +1,13 @@
+Task : Print Hello World
+ -----------------------
+Input Format:
+NO INPUT IS REQUIRED
+------------------------
+Constraints:
+PRINT HELLO WORLD
+------------------------
+Output Format:
+hello world
+------------------------
+Sample Output 0:
+hello world
