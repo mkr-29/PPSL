@@ -12,7 +12,7 @@ int main()
         printf("Outside the range.");
     }
     else
-    {
+    {//please change the code as you may like but please dont copy and paste it in your assignments(Try understanding it first)
         while(n>0)    
         {    
             r=n%10;    
