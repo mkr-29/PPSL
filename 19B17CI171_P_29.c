@@ -2,21 +2,22 @@
 
 int main()
 {
-    int n;
-    scanf("%d",&n);
-    int i=0;
+    int a,b;
+    scanf("%d",&a);
+    scanf("%d",&b);
+    int i;
 
-    if(n<1 || n>99999)
+    if(a<1 || a>20)
     {
         printf("Outside the range");
     }
+//please change the code as you may like but please dont copy and paste it in your assignments(Try understanding it first)
     else
-    {//please change the code as you may like but please dont copy and paste it in your assignments(Try understanding it first)
-        while(n>0)
+    {
+        for(i=1; i<=b; i++)
         {
-            n=n/10;
-            i=i+1;
+            printf("%d * %d = %d",a,i,a*i);
+            printf("\n");
         }
-        printf("Number of digits: %d",i);
     }
 }
