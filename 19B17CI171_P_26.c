@@ -17,7 +17,7 @@ int main()
     if (((h !='E')&&(h !='P')) || ((a !='C')&&(a !='V')) || ((g !='M')&&(g !='F')) || (age<=0) || (am<=0))
     {
         printf("Input unspecified.");
-    }
+    }//please change the code as you may like but please dont copy and paste it in your assignments(Try understanding it first)
     else if ((age>35) || (age<25))
     {
         printf("You can not be insured.");
