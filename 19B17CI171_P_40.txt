@@ -1,0 +1,46 @@
+Write a menu driven program which has following options:
+1. Factorial of a number.
+2. Prime or not
+3. Odd or even
+4. Exit
+---------------------------------------------------------------------------------------------------------------------
+Once a menu item is selected the appropiate action should be taken and once the action is finished,
+the menu should reappear. Unless the user selects the 'Exit' option the program should continue to work.
+---------------------------------------------------------------------------------------------------------------------
+Hint: Make use of an infinite while and a switch statement. You can use exit(0); function to terminate the program.
+---------------------------------------------------------------------------------------------------------------------
+You can reuse the code of these functions.
+---------------------------------------------------------------------------------------------------------------------
+Input Format:
+1
+3
+2
+11
+4
+---------------------------------------------------------------------------------------------------------------------
+where:
+first line is the choice
+second line is the number for first choice
+third line is the choice
+fourth line is the number for second choice
+fifth line exit the program.
+---------------------------------------------------------------------------------------------------------------------
+Constraints:
+Number should be in range 1 to 50, otherwise program should print Outside the range
+---------------------------------------------------------------------------------------------------------------------
+Output Format:
+Factorial value is 6 Prime number or Not prime Odd or Even
+---------------------------------------------------------------------------------------------------------------------
+Sample Input 0:
+1
+4
+2
+16
+3
+41
+4
+---------------------------------------------------------------------------------------------------------------------
+Sample Output 0:
+Factorial value is 24
+Not prime
+Odd
