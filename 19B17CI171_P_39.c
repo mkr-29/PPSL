@@ -8,10 +8,10 @@ void prime(int x){
         else{
             p=0;
         }
-    }
+    }//edit the code as you may like
     if(p==1){
         printf("Not prime");
-    }
+    }//but dont copy just to submit your assignments
     else{
         printf("Prime");
     }
