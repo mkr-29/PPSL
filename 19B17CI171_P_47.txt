@@ -1,0 +1,27 @@
+Write a program in c which reads two integers, then calls the swap function to swap them.
+The program doesn’t work with call by value. Alter the function to use call by reference.
+-------------------------------------------------------------------------------------------
+Input Format:
+30
+20
+-------------------------------------------------------------------------------------------
+where:
+First line is first number (N1)
+Second line is second number(N2)
+-------------------------------------------------------------------------------------------
+Constraints:
+1<N1<=100 
+1<N2<=80
+Otherwise, print Outside the range
+-------------------------------------------------------------------------------------------
+Output FormatP:
+First number is 20
+Second number is 30
+-------------------------------------------------------------------------------------------
+Sample Input 0:
+30
+20
+-------------------------------------------------------------------------------------------
+Sample Output 0:
+First number is 20
+Second number is 30
