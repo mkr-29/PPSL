@@ -31,9 +31,9 @@ void odd_even(int z){
     else{
         printf("Odd\n");
     }
-}
+}//edit the code as you may like
 int main()
-{
+{//but dont paste it as it is for the assignments.
     int mc,a;
     scanf("%d",&mc);
     if(mc==1){
