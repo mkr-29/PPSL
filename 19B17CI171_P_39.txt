@@ -1,0 +1,16 @@
+Write a C program to check whether a number is prime or not using user-defined functions.
+-----------------------------------------------------------------------------------------------
+Input Format:
+An integer number
+-----------------------------------------------------------------------------------------------
+Constraints:
+The number should be between 0 to 100, otherwise it should print Outside the range
+-----------------------------------------------------------------------------------------------
+Output Format:
+Prime or Not prime
+-----------------------------------------------------------------------------------------------
+Sample Input 0:
+7
+-----------------------------------------------------------------------------------------------
+Sample Output 0:
+Prime
