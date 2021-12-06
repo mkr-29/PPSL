@@ -1,0 +1,23 @@
+A machine is purchased which will produce earning of some rupees (enter by user) per year while it lasts.
+The machine costs some rupees (enter by user) and will have a salvage of Rs. 100 when it is condemned.
+If 12 percent per annum can be earned on alternate investments.
+
+What would be the minimum life of the machine to make it a more attractive investment compared to alternative investment?
+---------------------------------------------------------------------------------------------------------------------------
+Input Format:
+Machine cost
+Profit per year
+---------------------------------------------------------------------------------------------------------------------------
+Constraints:
+Earning and machine cost should be between 100 and 1000, otherwise program should print Outside the range
+Printed minimum year should be the one after which profit may start in next year.
+---------------------------------------------------------------------------------------------------------------------------
+Output Format:
+Minimum years, see sample output for exact representation
+---------------------------------------------------------------------------------------------------------------------------
+Sample Input 0:
+600
+300
+---------------------------------------------------------------------------------------------------------------------------
+Sample Output 0:
+Minimum life of machine 5 years
