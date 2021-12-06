@@ -2,11 +2,11 @@
 int fact(int x){
     if(x==1 || x==0){
         return 1;
-    }
+    }//edit the code as you may like
     else{
         return x*fact(x-1);
     }
-}
+}//dont just copy and paste
 int main()
 {
     int a;
