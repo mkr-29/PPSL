@@ -4,9 +4,9 @@ void fact(int x){
     int f=1,i;
     for(i=1; i<=x; i++){
             f=f*i;
-    }
+    }//Source : //source: https://bit.ly/3Dnjzcq
     printf("Factorial value is %d\n",f);
-}
+}//edit the code as you may like
 void prime(int x){
     int i,p=0;
     for(i=2; i<=x/2; i++){
@@ -17,7 +17,7 @@ void prime(int x){
         else{
             p=0;
         }
-    }
+    }//dont just copy and paste
     if(p==1){
         printf("Not prime\n");
     }
